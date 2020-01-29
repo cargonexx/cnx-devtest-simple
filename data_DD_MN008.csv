@@ -1,4 +1,4 @@
-"Produkt_Code","SDO_ID","Zeitstempel","Wert","Qualitaet_Niveau","Qualitaet_Byte"
+"Produkt_Code","SDO_ID","Timestamp","Value","Qualitaet_Niveau","Qualitaet_Byte"
 "DD_MN008","1975","201901010000","260","0","3"
 "DD_MN008","1975","201901010100","240","0","3"
 "DD_MN008","1975","201901010200","250","0","3"
